@@ -1,0 +1,20 @@
+{
+  "name": "todolist-v1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "First version of the Todo List application",
+  "main": "app.js",
+  "author": "Aniket Khot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "https": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
